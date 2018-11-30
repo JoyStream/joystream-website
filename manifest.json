@@ -1,7 +1,7 @@
 {
-  "name": "Jostream",
+  "name": "Joystream",
   "short_name": "Js",
-  "description": "A user operated media platform",
+  "description": "A user governed video platform",
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
