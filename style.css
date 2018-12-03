@@ -708,7 +708,7 @@ display:block;
   align-content: center;
   grid-column-gap: 6px;
   grid-row-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
 }
 
@@ -743,6 +743,7 @@ display:block;
 }
 
 /* svg hoverv */
+a svg:hover #hover-icon,
 a svg:hover #logo,
 a svg:hover #twitter,
 a svg:hover #telegram,
@@ -751,7 +752,7 @@ a svg:hover #medium{
   fill: #00b78b;
 }
 
-
+.hover-icon svg,
 .github-icon svg,
 .telegram-icon svg,
 .medium-icon svg,
@@ -762,7 +763,7 @@ a svg:hover #medium{
 
 	
 }
-
+.hover-icon svg:hover,
 .github-icon svg:hover,
 .telegram-icon svg:hover,
 .medium-icon svg:hover,
@@ -996,7 +997,7 @@ a svg:hover #medium{
   }
 }
 
-#w-node-80b7f2c26af2-bc32cfb9 {
+#w-node-80b7f2c26af2-bc32cfb9b {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 1;
@@ -1010,19 +1011,7 @@ a svg:hover #medium{
   grid-row-end: 2;
 }
 
-#w-node-547f53d624c3-bc32cfb9 {
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 1;
-  grid-row-end: 2;
-}
 
-#w-node-5e0333f9ef95-bc32cfb9 {
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 1;
-  grid-row-end: 2;
-}
 
 #w-node-9d30ba257c48-bc32cfb9 {
   grid-column-start: 1;
@@ -1031,12 +1020,6 @@ a svg:hover #medium{
   grid-row-end: 3;
 }
 
-#w-node-0863a7f51f1a-bc32cfb9 {
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 2;
-}
 
 #w-node-e8c3317078a2-bc32cfb9 {
   grid-column-start: 1;
