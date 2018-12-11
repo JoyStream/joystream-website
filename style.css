@@ -720,7 +720,7 @@ display:block;
   align-content: center;
   grid-column-gap: 6px;
   grid-row-gap: 5px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
 }
 
