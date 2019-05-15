@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Roles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Roles_hover" transform="translate(-496.000000, -3551.000000)">
+            <g id="Full-roles-Copy" transform="translate(0.000000, 2019.000000)">
+                <g id="Group-8" transform="translate(496.000000, 1532.000000)">
+                    <g id="Group-3">
+                        <g id="Group-2">
+                            <circle id="Oval" fill="#C4C3C6" cx="24.5" cy="24.5" r="24.5"></circle>
+                            <g id="Group-4" transform="translate(13.000000, 12.000000)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="3">
+                                <path d="M0,11.9868522 C0.00650493762,6.26306943 4.05485237,1.34073066 9.66976942,0.229491507 C15.2846865,-0.881747649 20.902786,2.12752022 23.0890048,7.41734456 C25.2752236,12.7071689 23.4208427,18.8046796 18.6596825,21.9816881 C14.9432739,24.4615587 10.2635183,24.6230399 6.46467446,22.6487709" id="Path" stroke-linecap="round"></path>
+                                <polyline id="Path" stroke-linecap="square" points="11 6 11 13 18 13"></polyline>
+                                <polygon id="Path" stroke-linecap="square" transform="translate(5.309120, 21.661191) rotate(-6.000000) translate(-5.309120, -21.661191) " points="3.39807551 25.1616376 8.77063895 19.7307579 1.84760126 18.1607451"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
